@@ -1,5 +1,3 @@
-console.log(`Greetings from ${module.id}!`);
-
 const object = {
   one: 1,
   two: 2,
